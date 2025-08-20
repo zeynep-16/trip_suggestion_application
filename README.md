@@ -1,7 +1,7 @@
 # 🌍 Trip Suggestion Application
 
 Bu proje, kullanıcıların seyahat planlarını kolaylaştırmak amacıyla geliştirilmiş bir **web uygulamasıdır**.  
-Uygulama, kullanıcıdan alınan **konum, ilgi alanı ve zaman bilgilerine göre kişiselleştirilmiş seyahat önerileri** sunmayı hedeflemektedir.  
+Uygulama, kullanıcıdan alınan **yaş,konum, ilgi alanı ve zaman bilgilerine göre kişiselleştirilmiş seyahat önerileri** sunmayı hedeflemektedir.  
 
 ---
 
