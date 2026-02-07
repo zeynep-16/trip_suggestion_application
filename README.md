@@ -59,3 +59,6 @@ Uygulama, kullanıcıdan alınan **yaş,konum, ilgi alanı ve zaman bilgilerine 
   <img width="500" src="https://github.com/user-attachments/assets/6a0abb9a-d05f-4877-83ee-f3e9efe5bb06" alt="Veritabanı"/>
 </p>
 
+## Geliştirici
+
+Zeynep KAYA
